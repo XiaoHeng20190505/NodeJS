@@ -1,0 +1,32 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "NodeJS学习笔记--B站上的视频教程，路径：https://www.bilibili.com/video/BV11t411k79h?p=5&spm_id_from=pageDriver",
+  "main": "app.js",
+  "dependencies": {
+    "_charenc@0.0.2@charenc": "^0.0.2",
+    "_crypt@0.0.2@crypt": "^0.0.2",
+    "_is-buffer@1.1.6@is-buffer": "^1.1.6",
+    "_md5@2.3.0@md5": "^2.3.0",
+    "charenc": "^0.0.2",
+    "crypt": "^0.0.2",
+    "is-buffer": "^1.1.6",
+    "md5": "^2.3.0",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoHeng20190505/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaoHeng20190505/NodeJS/issues"
+  },
+  "homepage": "https://github.com/XiaoHeng20190505/NodeJS#readme"
+}
